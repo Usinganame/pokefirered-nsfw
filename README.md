@@ -1,6 +1,8 @@
 # Pokémon FireRed and LeafGreen
 
-This is a decompilation of English Pokémon FireRed and LeafGreen.
+This is a ROM hack of Pokemon FR/LG. Forked from pret's decompilation of the games
+
+For more info about the decomp, see [pret's repository](https://github.com/pret/pokefirered)
 
 It builds the following ROM images:
 
